@@ -26,7 +26,7 @@ def run_pipeline(source: str, language: str = "english") -> dict:
 
     print(
         f"Raw transcription (first 300 characters): "
-        f"{transcript[:300]}"exit
+        f"{transcript[:300]}"
     )
 
     title = generate_title(transcript)
