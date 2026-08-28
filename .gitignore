@@ -3,4 +3,7 @@
 
 __pycache__/
 *.pyc
-*.pyo
+*.py
+
+
+vector_db
